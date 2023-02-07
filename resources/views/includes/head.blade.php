@@ -3,11 +3,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<meta name="description" content="AI VIZION | ERC20">
-<meta name="keywords" content="ai, vizion, ethereum, aivizion, blockchain, cryptocurrency, erc20">
+<meta name="description" content="AI VIZION | BSC">
+<meta name="keywords" content="ai, vizion, binancesmartchain, aivizion, blockchain, cryptocurrency, bsc">
 <meta name="author" content="VIZION">
 
-<title>AI VIZION | ERC20</title>
+<title>AI VIZION | BSC</title>
 <link rel="icon" type="image/x-icon" href="{{ asset('images/loader.png') }}">
 
 <!-- Fonts -->

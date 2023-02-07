@@ -256,7 +256,7 @@
                         </div>
                         <div class="iq-health-info">
                             <h4 class="mb-2">Remember</h4>
-                            <p>The most hype project on Ethereum</p>
+                            <p>The most hype project on Binance Smart Chain</p>
                         </div>
                     </div>
                 </div>
@@ -312,21 +312,21 @@
                     <div class="row iq-pb-100 mb-5">
                         <div class="col-sm-12 col-lg-3 col-md-6">
                             <div class="iq-space-counter wow fadeInUp" data-wow-duration="0.9s"  style="box-shadow: 0px 0px 65px 0px #9b0418,inset 0px 0px 54px 0px #9b0418;">
-                                <span class="timer" data-to="6" data-speed="1000">6</span>
+                                <span class="timer" data-to="2" data-speed="1000">2</span>
                                 <span class="timer-text">%</span>
                                 <h6>TAX</h6>
                             </div>
                         </div>
                         <div class="col-sm-12 col-lg-3 col-md-6">
                             <div class="iq-space-counter wow fadeInUp" data-wow-duration="0.9s"  style="box-shadow: 0px 0px 65px 0px #5748eb,inset 0px 0px 54px 0px #5748eb;">
-                                <span class="timer" data-to="3" data-speed="1000">3</span>
+                                <span class="timer" data-to="4" data-speed="1000">4</span>
                                 <span class="timer-text">%</span>
                                 <h6>MAX BAG & TX</h6>
                             </div>
                         </div>
                         <div class="col-sm-12 col-lg-3 col-md-6">
                             <div class="iq-space-counter wow fadeInUp" data-wow-duration="0.9s"  style="box-shadow: 0px 0px 65px 0px #eda15d,inset 0px 0px 54px 0px #eda15d;">
-                                <span class="timer" data-to="20000000" data-speed="5000">20000000</span>
+                                <span class="timer" data-to="20000000" data-speed="5000">10000000</span>
                                 <span class="timer-text"></span>
                                 <h6>TOTAL SUPPLY</h6>
                             </div>
@@ -334,7 +334,7 @@
                         <div class="col-sm-12 col-lg-3 col-md-6">
                             <div class="iq-space-counter wow fadeInUp" data-wow-duration="0.9s"  style="box-shadow: 0px 0px 65px 0px #62bcf8,inset 0px 0px 54px 0px #62bcf8;">
                                 <span class="timer" data-to="1" data-speed="1000">1.2</span>
-                                <span class="timer-text">.2 ETH</span>
+                                <span class="timer-text"> BNB</span>
                                 <h6>INITIAL LP</h6>
                             </div>
                         </div>
@@ -417,7 +417,7 @@
                         <div class="col-sm-12 col-lg-6 col-md-6">
                             <div class="title-box title-white text-left text-white" >
                                 <h2 class="title font-weight-bold">Our Vizion</h2>
-                                <p class="sub-title">It will be a long story for us on Ethereum</p>
+                                <p class="sub-title">It will be a long story for us on Binance Smart Chain</p>
                             </div>
                             <ul class="iq-list-stylethree column-2 wow fadeInUp" data-wow-duration="0.9s">
                                 <li class="text-white"><i class="fa fa-check text-white "></i><span>Smart DAPP </span></li>
