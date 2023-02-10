@@ -312,7 +312,7 @@
                     <div class="row iq-pb-100 mb-5">
                         <div class="col-sm-12 col-lg-3 col-md-6">
                             <div class="iq-space-counter wow fadeInUp" data-wow-duration="0.9s"  style="box-shadow: 0px 0px 65px 0px #9b0418,inset 0px 0px 54px 0px #9b0418;">
-                                <span class="timer" data-to="2" data-speed="1000">2</span>
+                                <span class="timer" data-to="4" data-speed="1000">4</span>
                                 <span class="timer-text">%</span>
                                 <h6>TAX</h6>
                             </div>
